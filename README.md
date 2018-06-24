@@ -1,5 +1,5 @@
 # TV Land ActiveRecord Associations Lab
-
+k
 ## Objectives
 
 1. Create and modify tables using ActiveRecord migrations.
